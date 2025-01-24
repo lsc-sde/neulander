@@ -1,0 +1,9 @@
+[submodule "neulander-core"]
+	path = core
+	url = https://github.com/lsc-sde/neulander-core
+[submodule "neulander-api"]
+	path = api
+	url = https://github.com/lsc-sde/neulander-api
+[submodule "neulander-medcat-worker"]
+	path = worker-medcat
+	url = https://github.com/lsc-sde/neulander-medcat-worker
