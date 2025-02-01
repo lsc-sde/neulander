@@ -7,3 +7,9 @@
 [submodule "neulander-medcat-worker"]
 	path = worker-medcat
 	url = https://github.com/lsc-sde/neulander-medcat-worker
+[submodule "helm"]
+	path = helm
+	url = https://github.com/lsc-sde/iac-helm-neulander
+[submodule "flux"]
+	path = flux
+	url = https://github.com/lsc-sde/iac-flux-neulander
