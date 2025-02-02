@@ -11,9 +11,13 @@
 		},
 		{
 			"path": "worker-medcat"
+		},
+		{
+			"path": "azurite"
 		}
 	],
 	"settings": {
-		"python.defaultInterpreterPath": "${workspaceFolder}/core/.venv/Scripts/python"
+		"python.defaultInterpreterPath": "${workspaceFolder}/core/.venv/Scripts/python",
+		"editor.formatOnSave": true
 	}
 }
