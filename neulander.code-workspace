@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "api"
+		},
+		{
+			"path": "core"
+		},
+		{
+			"path": "worker-medcat"
+		}
+	],
+	"settings": {
+		"python.defaultInterpreterPath": "${workspaceFolder}/core/.venv/Scripts/python"
+	}
+}
