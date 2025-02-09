@@ -14,15 +14,12 @@
 		},
 		{
 			"path": "azurite"
-<<<<<<< HEAD
 		},
 		{
 			"path": "flux"
 		},
 		{
 			"path": "helm"
-=======
->>>>>>> acb4d7fdb42ec8f1abbc073a8825426f1898a3da
 		}
 	],
 	"settings": {
