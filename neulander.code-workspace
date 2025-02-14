@@ -20,10 +20,12 @@
 		},
 		{
 			"path": "helm"
+		},
+		{
+			"path": "../neulander-helm"
 		}
 	],
 	"settings": {
-		"python.defaultInterpreterPath": "${workspaceFolder}/core/.venv/Scripts/python",
 		"editor.formatOnSave": true
 	}
 }
